@@ -1,0 +1,7 @@
+*.pyc
+*.pyd
+*.pyo
+.vscode/
+venv/
+__pycache__/
+*.pdf
